@@ -27,7 +27,6 @@
 #else
 #define UI_FILE PACKAGE_DATA_DIR"/ui/trotsky.ui"
 #endif
-#define TOP_WINDOW "window"
 
 /* What follows is the list of the widgets contained in UI_FILE
 that will be accessible to the code through "app_widgets.[WidgetID]".
