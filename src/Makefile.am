@@ -20,7 +20,7 @@ AM_CFLAGS =\
 bin_PROGRAMS = trotsky
 
 trotsky_SOURCES = \
-	main.c
+	trotsky.c
 
 
 trotsky_LDFLAGS = \
